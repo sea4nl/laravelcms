@@ -178,9 +178,7 @@ td,
 th {
   padding: 0;
 }
-html {
-  height: 100%;
-}
+html,
 body {
   height: 100%;
 }
